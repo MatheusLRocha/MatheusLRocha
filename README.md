@@ -19,5 +19,5 @@
 ##
 
 <div>
-  <img src="https://raw.githubusercontent.com/matheuslrocha/gitrepo/output/snake.svg" alt="Snake animation" />
+  <img src="https://github.com/MatheusLRocha/MatheusLRocha/blob/output/snake.svg" />
 </div>
