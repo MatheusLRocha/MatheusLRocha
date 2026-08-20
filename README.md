@@ -1,16 +1,19 @@
-## Hi there 👋
+## Olá 👋, eu sou o Matheus Rocha!
 
-<!--
-**MatheusLRocha/MatheusLRocha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div>
+  <img height="170em" src="https://github-stats-extended.vercel.app/api?username=MatheusLRocha&rank_icon=github&show_icons=true&include_all_commits=true&theme=catppuccin_mocha">
+  <img height="170em" src="https://github-stats-extended.vercel.app/api/top-langs?username=MatheusLRocha&layout=compact&langs_count=4&theme=catppuccin_mocha">
+</div>
 
-Here are some ideas to get you started:
+##
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div>
+  <a href="https://github.com/MatheusLRocha">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">    
+  </a>
+  <a href="https://www.instagram.com/matheus.ldr_/">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+  </a>
+
+  ![Snake animation](https://github.com/MatheusLRocha/blob/output/github-contribution-grid-snake.svg)
+</div>
