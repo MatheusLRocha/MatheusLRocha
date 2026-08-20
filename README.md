@@ -18,4 +18,6 @@
 
 ##
 
-<img src="https://raw.githubusercontent.com/MatheusLRocha/gitrepo/output/snake.svg" alt="Snake animation" />
+<div>
+  <img src="https://raw.githubusercontent.com/matheuslrocha/gitrepo/output/snake.svg" alt="Snake animation" />
+</div>
