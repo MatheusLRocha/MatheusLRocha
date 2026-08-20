@@ -14,6 +14,8 @@
   <a href="https://www.instagram.com/matheus.ldr_/">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
   </a>
-
-  ![Snake animation](https://github.com/MatheusLRocha/blob/output/github-contribution-grid-snake.svg)
 </div>
+
+##
+
+<img src="https://raw.githubusercontent.com/MatheusLRocha/gitrepo/output/snake.svg" alt="Snake animation" />
